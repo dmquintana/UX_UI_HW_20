@@ -1,0 +1,111 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-weight: bold;
+}
+.hero{
+    display: flex;
+    background-color:#FBD148 ;
+    
+}
+.display-4{
+    color: #2D72C2 ;
+    font-weight: bold;
+}
+.display-5{
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.lead{
+    font-weight: 300;
+}
+.headerText{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.abrLogo{
+    height: 180px;
+    width: 180px;
+    justify-content:left;
+    align-items: flex-start;
+}
+.btn{
+    background-color: orange;
+}
+.bigBody{
+    display: flex;
+    background-color: #294F6B;
+    color: white;
+    justify-content: center;
+    align-items: center;
+
+}
+.h1{
+    display: flex;
+    flex-direction: center;
+    align-items: center;
+}
+.subBody{
+    background-color: #F4ECE2 ;
+    justify-content: center;
+    align-content: center;
+    justify-self: center;
+    display: flex;
+}
+.topRow{
+    justify-content: center;
+    align-content: center;
+}
+.bottomBody{
+    color:#E86B3C;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    background-color: #F4ECE2;
+    justify-content:baseline;
+}
+.leftFoot .middleFoot .iconFoot .rightFoot .bottomFoot{
+    background-color: orange;
+    display: flex;
+}
+.iconFoot{
+    display: flex;
+    align-self: center;
+    justify-content: space-between;
+    padding-inline: 25px;
+    padding-block: 25px;
+    margin-inline: 50px;
+}
+.leftFoot {
+    display: flex;
+    width: 180px;
+    height: 180px;
+    flex-direction: row;
+}
+.bottomFoot{
+    display: flex;
+}
+.rightFoot ul il{
+    justify-content: flex-end;
+    flex-direction: row;
+    color: #2D72C2;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    justify-items: end;
+    justify-items: right;
+}
+#subFooter{
+    display: flex;
+    background-color: #FBD148;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
